@@ -5,8 +5,8 @@ Please see the corresponding sections below for details.
 Dependencies
 ============
 
-  URI: <first dependency>
-  branch: <branch name>
+  URI: https://github.com/STMicroelectronics/meta-st-stm32mp
+  branch: wrynose_v26.02.18
 
   URI: <second dependency>
   branch: <branch name>
